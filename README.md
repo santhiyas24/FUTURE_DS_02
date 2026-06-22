@@ -5,9 +5,6 @@
 Customer retention is one of the most important factors influencing the growth and profitability of subscription-based businesses. This project analyzes customer churn patterns and identifies key factors that affect customer retention.
 
 The analysis provides business insights and recommendations to help improve customer loyalty and reduce churn.
-### Dashboard Preview
-
-![Dashboard Preview](Screenshot 2026-06-20 183142.png)
 
 ---
 ## Objectives
